@@ -1,0 +1,327 @@
+---
+title: "Tema 5. Clima y tiempo. "
+output:
+  prettydoc::html_pretty:
+    toc: true
+    theme: cayman
+    highlight: github
+    math: katex
+    number_sections: true
+    
+---
+<!-- Comments -->
+
+<!--Types of Syntax-->
+<!--
+
+ Plain Text // Texto Plano > Hola, mundo!
+ Italic // Cursiva > _Hola, mundo!_ or *Hola, mundo!*
+ Bold // Negrita > __Hola, mundo!__ **Hola, mundo!**
+ Superscript // Superíndice > Hola, mundo!^2^
+ Strikethrough // tachado > ~~Hola, mundo!~~
+ link // Hipervínculo > [link](https://www.geografos.org/)
+ 
+-->
+ 
+<!--Script Syntax-->
+<!--
+
+Small Script > -- 
+Large Script > ---
+Ellipsis > ...
+
+-->
+
+<!--Tittle Syntax-->
+<!--
+
+# Heading 1  Hola, mundo!
+## Heading 2  Hola, mundo!
+### Heading 3 Hola, mundo!
+#### Heading 4  Hola, mundo!
+##### Heading 5  Hola, mundo!
+###### Heading 6 Hola, mundo!
+
+-->
+<!--Equations Syntax-->
+
+<!--
+
+$A = \pi*r^{2}$
+
+--> 
+
+<!--Images-->
+
+<!--
+
+![](Path/to/the/working/directory) 
+
+-->
+
+<!--Blocks Quote-->
+
+<!--
+
+>Block
+
+-->
+
+<!--List-->
+
+<!--
+
+* unordered list 
+* item 2 
+ + sub-item 1 
+ + sub-item 2 
+ 
+1. ordered list 
+2. item 2 
+ + sub-item 1 
+ + sub-item 2
+ 
+-->
+
+<!--Table-->
+
+<!--
+
+Table Header | Second Header 
+------------- | ------------- 
+Table Cell | Cell 2 
+Cell 3 | Cell 4
+
+-->
+
+<!-- It is possible to add code execution cells with the shortcut CTRL+Alt+I -->
+
+**_¡ Aviso para navegantes !_**: Hola a todos/as, bienvenidos/as a la clase _aditrevni_. En este documento web, se desarrollan parte de los conocimientos de climatología que debe tener un alumno de la asignatura optativa de Geografía de 2º de Bach. Es importante que presteís mucha atención y os leaís el documento detenidamente, ya que este tema es denso y además, es parte del temario de Selectividad. 
+
+En la próxima clase, utilizaré estos contenidos como base para ampliar los conocimientos del tema. Además corregiremos los ejercicios y resolveremos las dudas que os hayan surgido. ¡Mucha Suerte! 
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://cdn2.telediario.mx/uploads/media/2020/03/31/simpson.jpeg" width="300px">
+</p>
+</div>
+
+# Un breve repaso...
+
+## ¿Qué es el clima?
+
+El clima es el resultado de la conjunción de variables físicas como la temperatura, la humedad, la presión o el viento  sobre un lugar determinado. Estas características, aunque varían en cortos periodos de tiempo, siguen una estructura que se repite con bastante frecuencia dando lugar a unos valores medios, que son los que explican algunos de los rasgos geográficos más característicos de una zona.
+
+## ¿Qué disciplinas científicas estudian el clima?
+
+1. Física de la atmósfera o **Meteorología**: Disciplina científica que estudia las leyes que gobiernan el funcionamiento del Sistema Climático. 
+
+2. **Climatología**: Rama de la Geografía Física, que tiene como objeto de estudio la distribución espacial y el ritmo temporal de las variables del clima y su relación con otras del medio natural como la vegetación, los cultivos y el hombre. 
+
+La diferencia entre ambas cada vez se va reduciendo más, pero de forma simplificada es posible decir, que el principal objetivo de la meteorología es *la predicción del tiempo*. Mientras que la climatología, tiene como principal finalidad *definir y caracterizar los diferentes tipos de climas que se observan en la superficie terrestre*.
+
+## Diferencias entre tiempo y clima
+
+* **Tiempo** : Situación meteorológica concreta que se observa sobre un lugar en
+un momento determinado. Varía con bastante frecuencia de tal modo que un día puede ser muy distinto al que le precede. Incluso a lo largo del día el tiempo puede variar.
+
+* **Clima**: Estado medio que se define por unos valores estadísticos deducidos 
+de series largas. Se entiende por serie larga, el conjunto de datos adquiridos a lo largo de un periodo de 30 años, tal y como lo estipula la Organización Meteorológica Mundial (OMM). Al intervalo temporal que se utiliza para definir climas le denomina *“periodo internacional”*. A diferencia del tiempo, el clima sigue unos ritmos estacionales que se suceden regularidad, además es el clima el que define el tipo de vegetación, los cultivos etc. de una zona concreta. 
+
+
+# Naturaleza y composición de la atmósfera.
+
+A continuación podeís ver un vídeo que explica la naturaleza y composición de la atmósfera.
+
+
+```{r,echo=FALSE}
+library(vembedr)
+embed_url("https://www.youtube.com/watch?v=J8xGEZT4Qa4")%>%
+use_align("center")
+```
+
+# Estructura Vertical de la Atmósfera.
+A continuación podeís ver un vídeo que explica la esturcuta vertical la atmósfera.
+
+```{r,echo=FALSE}
+library(vembedr)
+embed_url("https://www.youtube.com/watch?si=xENdF6RLnRDWaPWM&v=DzXlKKn-ITE&feature=youtu.be") %>%use_align("center")
+```
+
+# Factores y Elementos del clima.
+## Factores Climáticos
+
+Se denominan factores climáticos al **conjunto de rasgos o características geofísicas y geográficas de las que dependen los mecanismos fundamentales del clima de una zona concreta**. Son de dos tipos: *cósmicos o astronómicos* y *geográficos*.
+
+* **Factores Astronómicos**: Explican y condicionan la distribución espacial y las variaciones temporales 
+de la energía procedente del Sol.
+
+* **Factores Geográficos** : Influyen en la distribución espacial de los diferentes elementos del clima, 
+dando lugar a una gran variedad de ellos.
+
+### Factores cósmicos:
+
+ 1. **Forma y dimensiones de la Tierra**: Influyen sobre la variación latitudinal de la radiación 
+solar.
+
+2. **Movimientos de Rotación y Traslación**: Explican los regímenes térmicos: diarios y 
+estacionales.
+
+### Factores Geográficos:
+
+1. **Altitud**: Influye sobre las temperaturas y las precipitaciones, tal influencia se manifiesta 
+en los denominados gradientes térmicos y pluviométricos.
+
++ *_Gradiente Térmico_*: Descenso de la temperatura con la altura. Generalmente es negativo y se 
+expresa en ºC/100 m.
+
++ *_Gradiente Pluviométrico_*: Aumento de la precipitación con la altura; se expresa en mm/100 m. 
+
++ *_Distribución de tierras y mares_*: Esta distribución espacial condiciona las oscilaciones térmicas a lo largo del año, dando lugar a los conceptos de oceanidad y continentalidad.
+
+2. **Orientación de las alineaciones montañosas**: Produce diferencias térmicas y pluviométricas entre laderas.
+
+3. **Características de la superficie terrestre**: Modifican la temperatura y la humedad del aire a pequeña escala.
+
+## Elementos del Clima
+
+Para el desarrollo de estudios climatológicos, se obtienen datos de las variables o elementos en las que suele dividirse el clima: _presión, viento, radiación, temperatura, humedad y precipitación_. Aunque las dos más importantes son la temperatura y la precipitación, pues se utilizan para definir y caracterizar los diferentes tipos de climas.
+
+### Escalas Climáticas
+
+#### Escala Temporal
+
+La **variabilidad** es uno de los rasgos característicos del clima y hace referencia, tanto a los regímenes térmicos o pluviométricos como a la sucesión de años secos y húmedos. Esta variabilidad puede ser: 
+
+* Diaria
+* Mensual
+* Interanual
+
+Otro de los rasgos carácterísticos de la escala temporal es la tendencia. La **tendencia** se puede definir como el *conjunto de cambios a largo plazo provocados por modificaciones enalguno de los componentes del sistema climático.Estos cambios pueden ser debidos, tanto a causas naturales, como antrópicas*.
+
+#### Escala Espacial
+
+Los elementos del clima varían considerablemente de unos lugares a otros debido a la interacción de los diferentes factores. El resultado es la gran variedad de tipos de climas que se observan en la superficie terrestre. 
+
+En el cuadro siguiente se presenta de forma simplificada la relación entre escalas, elementos y factores de los principales tipos de climas:
+
+<style scoped>
+table{
+font-size: 14px;
+}
+</style>
+
+Escala | Fact. Dominantes | Variable| Tipo de Clima | Características
+------------- | ------------- | ------------- | ------------- | ------------- 
+Planetaria | Astronómicos | Temperatura | Intertropicales, Templados, Fríos | Sin invierno/verano
+Regional | Astronómicos y Geográficos | Temperaturas y Precipitaciones | Ecuatorial, Tropical, Monzónico, Oceánico, Continental, Mediterráneo |  Total pluviométrico y Regímenes pluviométricos diferenciados
+Local | Geográficos | Amplitud Térmica | Continental y Oceánico | Amplitud térmica total, Régimen pluviométrico
+
+Además de estos climas, aparecen otros en los que adquieren una importancia fundamental los factores geográficos y locales: son los denominados *climas azonales*, entre los que destacan los climas áridos, los de montaña y los microclimas.
+
+# Las grandes zonas climáticas.
+
+A continuación, podeis apreciar la distribución espacial de las grandes zonas climáticas del Planeta.
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i0.wp.com/www3.gobiernodecanarias.org/medusa/ecoblog/msuaump/files/2012/11/zonas-climaticas.jpg?ssl=1" width="600px">
+</p>
+</div>
+
+# Clasificación de Koppën
+
+En climatología existen diferentes formas de clasificar los climas de la Tierra, una de las más empleadas es la clasificación climática de Köppen.
+
+El sistema de Köppen se basa en que la vegetación natural que tiene una clara relación con el clima, por lo que los límites entre un clima y otro se establecieron teniendo en cuenta la distribución de la vegetación. Los parámetros para determinar el clima de una zona son las temperaturas y precipitaciones medias anuales y mensuales, y la estacionalidad de la precipitación.
+
+Divide los climas del mundo en cinco grupos principales: tropical, seco, templado, continental y polar, identificados por la primera letra en mayúscula. Cada grupo se divide en subgrupos, y cada subgrupo en tipos de clima. Los tipos de clima se identifican con un símbolo de 2 o 3 letras.
+
+A continuación os muestro un ejemplo de como se realiza.
+
+X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
+------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
+Temperatura (ºC) | 0.1 |	0.1 |	0.6 |	3 |	6.6 |	9.5 |	11.2 |	10.7 |	8 |	4.4 |	1.9 |	0.6 | 
+Precipitación (mm)| 83 |	85.9 |	81.4 |	56 |	52.8 |	43.8 |	52.3 |	67.3 |	73.5 |	74.4 |	78.8 |	94.1|
+
+El clima que se presenta en la tabla, es un clima tipo C, que se caracteriza porque la temperatura media del mes más frío es menor de 18 °C y superior a -3 °C (en este caso 0.1 ºC) y la del mes más cálido es superior a 10 °C (aquí 11.2 ºC). Las precipitaciones exceden a la evaporación. Al estar las lluvias repartidas a lo largo del año y no existir extación seca, es posible determinar que  la subclasificación de este clima es Cf. Por último, este clima presenta cuatro meses al año con una media superior  a 10ºC y una oscilación térmica muy escasa, con temperaturas superiores a −3 °C y lluvias constantes y generalmente abundantes. Teniendo todos estos datos en cuenta es posible clasificar este clima como un clima Subpolar Oceánico (Cfc) en la clasificación de Köppen.
+
+## Ejercicio 1
+
+Clasificar los siguientes datos adquiridos de diferentes estaciones meteorológicas distribuidas a lo largo del mundo. Para el desarrollo de la clasificación, podeís apoyaros  en la tabla resumen que se presenta en el siguiente PDF y contiene los datos necesarios para realizar la clasificación climática de Köppen.
+
+<object
+type="application/pdf"
+data="https://www.cen.edu/docs/upload/secundaria/muestras/geh_practica.pdf"
+width = "1000"
+height = "500"
+>
+</object>
+
+\
+Tabla 1.
+
+X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
+------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
+Temperatura (ºC) | 6 |	9 |	12 | 18 |	22 |	27 |	28 |	27 | 24 |	18 |	11 |	7 | 
+Precipitación (mm)| 10 |	11 |	8 |	5 |	7 |	15 |	42 |	42 |	34 |	20 | 10 |	16|
+
+\
+Tabla2.
+
+X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
+------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
+Temperatura (ºC) | -41 | -47 | -39 | -31 | -20 | -16 | -12 |	-18 | -21 |	-35 |	-42 |	-38 | 
+Precipitación (mm)| 10 |	0 |	0 |	0 |	0 |	0 |	0 |	0 |	0 |	10 | 10 |	20|
+
+\
+Tabla 3 .
+
+X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
+------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
+Temperatura (ºC) | 5 | 6 | 10 | 12 | 16 | 20 | 24 |23 | 20 |	14 |	9 |	5 | 
+Precipitación (mm)| 43 |	44 |	35 | 45 |	44 |	28 |	11 | 11 |	30|	51 | 58 | 50|
+
+
+## Ejercicio 2 
+
+En el siguiente mapa web (Podeís jugar con él), es posible visualizar la localización de 5 lugares de gran interés climatologico. ¿Qué característica comparten en común?¿Qué factores y elementos climatologicos los condicionan?
+
+
+```{python, echo=FALSE, results=FALSE}
+
+import pandas as pd
+import folium
+
+m = folium.Map(location=(40.416775,-3.703790),tiles="OpenStreetMap", zoom_start=6)
+
+data = pd.DataFrame({
+   "lon":[-8.7226400, 0.85035,-5.880555, -0.98623, 0.8088888888],
+   "lat":[42.2328200, 42.7256, 40.13972, 37.60512, 40.7025],
+   "name":["Vigo", "Valle de Aran", "Valle del Jerte", "Campo de Cartagena", "Delta del Ebro"],
+   "value":[10, 12, 40, 70, 23]
+}, dtype=str)
+
+for i in range(0,len(data)):
+   folium.Marker(
+      location=[data.iloc[i]['lat'], data.iloc[i]['lon']],
+      popup=data.iloc[i]['name'],
+   ).add_to(m)
+
+m
+```
+
+\
+
+# Bibliografía
+
+1. Fernández García, F (2006): La Diversidad Climática de España. Explicación, comprensión y enseñanza. El espacio geográfico español y su diversidad. Ministerio de Educación y Ciencia, Instituto Superior de Formación del Profesorado, Madrid 2006, pp. 9-37 ISBN: 84-369-4266-3.
+
+2. Strahler, N. y Strahler, H. (1989): Geografía Física.Capítulo 9. Clasificación de los climas, pp. 147-190.
+
+3. Clasificador Climático Köppen (2023). Disponible en: https://fcalzado.es/climograma/index.html
+
+
+
+
+
