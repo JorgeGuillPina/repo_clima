@@ -141,7 +141,7 @@ use_align("center")
 ```
 
 # Estructura Vertical de la Atmósfera.
-A continuación podeís ver un vídeo que explica la esturcuta vertical la atmósfera.
+A continuación podeís ver un vídeo que explica la estructura vertical la atmósfera.
 
 ```{r,echo=FALSE}
 library(vembedr)
@@ -259,7 +259,7 @@ height = "500"
 </object>
 
 \
-Tabla 1.
+Clima 1.
 
 X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
 ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
@@ -267,7 +267,7 @@ Temperatura (ºC) | 6 |	9 |	12 | 18 |	22 |	27 |	28 |	27 | 24 |	18 |	11 |	7 |
 Precipitación (mm)| 10 |	11 |	8 |	5 |	7 |	15 |	42 |	42 |	34 |	20 | 10 |	16|
 
 \
-Tabla2.
+Clima 2.
 
 X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
 ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
@@ -275,7 +275,7 @@ Temperatura (ºC) | -41 | -47 | -39 | -31 | -20 | -16 | -12 |	-18 | -21 |	-35 |	
 Precipitación (mm)| 10 |	0 |	0 |	0 |	0 |	0 |	0 |	0 |	0 |	10 | 10 |	20|
 
 \
-Tabla 3 .
+Clima 3 .
 
 X | En. | Feb.| Marzo | Abril | Mayo | Jun. | Jul. | Ago. | Sept. | Oct. | Nov. | Dic.
 ------------- | ------------- | ------------- | ------------- | ------------- |------------- | ------------- |------------- | ------------- | ------------- |------------- |------------- |------------- |
@@ -313,6 +313,259 @@ m
 
 \
 
+# Aprendizaje Basado en Problemas 
+
+Una vez que hemos comprendido el qué es el clima, cuáles son los factores fundamentales que influyen y como se distribuye zonalmente. Vamos a continuar con el temario con una nueva práctica basada en el aprendizaje por problemas.
+
+El clima es un elemento y factor clave en la configuración del medio natural y fundamental en la actividad humana. Como bien sabeís es el determinante de la variedad de ecosistemas de paisajes y de la biodiversidad de un país y también el factor más importante de los recursos naturales, el potencial agrícola, ganadero y forestal.
+
+Tras esta breve introducción, es posible constatar que existe una interrelación entre el clima, el ser humano y el territorio. Entender esta interrelación es crucial, para poder entender el temario como un “todo”, ya que en geografía todo está interconectado.
+
+Actualmente debidos al drástico incremento de la población en las últimas décadas, ha aumentado notablemente la demanda de recursos naturales. Desencadenando en un aumento de la producción y por ende en un aumento del consumo energético, generado modificaciones en el sistema climático y dando una mayor vulnerabilidad frente al clima.
+
+Bajo este contexto, la acción humana ha generado un incremento de la vulnerabilidad en ecosistemas de todo el mundo. También ha producido una transformación radical de los paisajes y se ha determinado que es la principal causante del calentamiento global.
+
+El estudio del Cambio Climático se puede definir como el estudio de los cambios producidos en la atmósfera, y de las conexiones entre esta, la litosfera y la biosfera. En los últimos 3,2 millones de años, el clima de la tierra ha oscilado enormemente y ha alternado entre periodos de importante glaciación continental (períodos glaciales) e intervalos de climas más cálidos (períodos interglaciares). 
+
+En la actualidad vivimos en un periodo interglaciar (el último fue aproximadamente hace 125.000 años). La comunidad científica ha constatado un aumento global de la temperatura media de la tierra, que posiblemente exceda a las elevadas temperaturas naturales de periodos interglaciares, es a este fenómeno al que se refieren como calentamiento global. Existe un amplio consenso científico sobre el hecho de que la emisión a la atmósfera de Gases de Efecto Invernadero) GEI por parte del hombre provoca una modificación en el balance de energía del sistema climático, conduciendo al calentamiento global.
+
+El calentamiento acelerado del planeta, provoca cambios en otras variables naturales e impactos ambientales, tanto en el sistema natural como en las actividades humanas. En el caso de la atmósfera nos encontramos los siguientes cambios:
+
+* Intensificación del Efecto Invernadero Natural 
+*	Reforzamiento del efecto invernadero Desequilibrio en el balance de radiación del planeta Calentamiento global.
+*	Aumento de temperaturas reducción de la cubierta hielo, retroceso de los glaciares (cambios en la Criosfera) y elevación del nivel del mar (cambios en la Hidrosfera).
+*	Los cambios operados generan impactos sobre las plantas y animales, generando desplazamientos de hábitats (cambios en la Biosfera).
+
+Algunos de los futuros impactos serán en: 
+
+* Ecosistemas
+* La salud 
+*	Sectores claves como la agricultura y los recursos hídricos
+*	Infraestructuras y asentamientos humanos 
+
+Estos impactos serán especialmente graves en países en desarrollo y entre los sectores de población más desfavorecidos de todos los países, ya que aumentará aún más las desigualdades existentes.
+
+El actual cambio del clima es fenómeno global, por lo tanto, sus efectos como sus causas son una realidad observable, que se manifiesta en el planeta.
+
+## Aspectos a destacar del Cambio Climático.
+
+El calentamiento del sistema climático es inequívoco, y, desde los años 50 del siglo XX, muchos de los cambios observados no tienen precedentes en décadas a milenios. La atmósfera y el océano se han calentado, los totales de hielo y nieve han disminuido, el nivel del mar se ha elevado y las concentraciones de gases de efecto invernadero han aumentado”. Por lo tanto, una de las características más importantes de este fenómeno es su celeridad. El otro aspecto relevante, son sus causas, de origen antrópico.
+
+## Acciones Clave para evitar el Impacto del Cambio Climático:
+
+* Mitigación: Reducir emisiones de GEI para que el calentamiento sea el mínimo posible.
+
+* Adaptación: Ajustarse a las nuevas condiciones ambientales reduciendo el efecto de los impactos y aprovechando las nuevas oportunidades.
+
+En el contexto de la ONU, la respuesta multilateral frente al Cambio Climático, se materializó en 1992 con la Convención Marco de Naciones Unidas sobre Cambio Climático (CMNUCC), en 1997 con el Protocolo de Kioto y ha ido evolucionando hasta la adopción del Acuerdo de Paris en 2015.
+
+# Justificación según el Marco Legislativo.
+
+Esta actividad está directamente relacionada con las siguientes competencias específicas de la asignatura optativa de geografía de 2º de Bachillerato:
+
+Competencia Específica 1.:
+
+1.1.	Cuestionar modos de vida insostenibles mediante el análisis geográfico de todo tipo de fuentes de información que trate de los retos ecosociales presentes y futuros, y desde argumentos fundados en la relevancia y necesidad de las acciones para afrontarlos. 
+
+1.2.	Debatir sobre los retos naturales y sociales de España de forma comprometida y respetuosa con opiniones ajenas, utilizando estrategias orales con apoyo digital de gráficos, imágenes y cartografía, y manejando datos rigurosos.  
+
+Competencia Específica 2.: 
+
+2.1. Valorar todo impacto de la acción antrópica desde el principio de sostenibilidad, reconociendo la complejidad sistémica del medio natural y de las propias actividades humanas.
+
+Competencia específica 4.:
+
+4.1. Emplear la escala apropiada para localizar o representar, con apoyo de las TIG, cualquier fenómeno físico o humano, justificando los métodos y datos elegidos, y la delimitación de regiones o categorías de análisis, así como de áreas de transición.
+
+4.2. Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG.
+
+Competencia específica 5.:
+
+5.1. Expresar la necesidad de preservar el medio ambiente, indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora.
+
+Estas competencias están relacionadas principalmente con el siguiente saber básico: (B). La sostenibilidad del medio físico de España.
+
+* Factores físicos y diversidad de paisajes y ecosistemas. Análisis de los condicionantes geomorfológicos, bioclimáticos, edáficos, hídricos y relativos a las actividades humanas y prevención de los riesgos asociados para las personas. 
+
+* Diversidad climática de España. Análisis comparativos de distribución y representación de climas. Emergencia climática: cambios en los patrones termopluviométricos; causas, consecuencias y medidas de mitigación y adaptación. Estrategias de interpretación del tiempo y alertas meteorológicas; webs y aplicaciones móviles.
+
+* Biodiversidad, suelos y red hídrica. Características por regiones naturales. Impacto de las actividades humanas y efectos sobre las mismas: pérdida de biodiversidad, de suelos y gestión del agua. Interpretación de imágenes, cartografía y datos. Riesgos generados por las personas. 
+
+* Políticas ambientales en España y la Unión Europea: uso de herramientas de diagnóstico. La red de Espacios Naturales Protegidos y la red Natura 2000. El debate sobre los cambios del modelo de desarrollo: el principio de sostenibilidad.
+
+# Planeamiento del Problema. El Delta del Ebro y su vulnerabilidad al cambio climático.
+
+El Río Ebro conforma, en su tramo final, uno de los accidentes geográficos y ecosistemas de mayor riqueza natural de España; el Delta del Ebro. Un delta, es un accidente geográfico convexo formado por la deposición de sedimentos en la desembocadura de un río. Están compuestos por brazos fluviales que conforman islas de sedimentos, lo que en los ríos más grandes generan algo similar a canales que se separan y se juntan. 
+
+En este caso concreto, el delta del Ebro, es el cuarto más grande de la cuenca mediterránea con una extensión de 350 kilómetros cuadrados. Se sitúa entre Valencia y Barcelona, en la provincia de Tarragona, al este de la Península Ibérica.
+
+Una de las características más reseñables de este delta es la cohabitación humana con el ecosistema natural, principal característica de la zona. De esta manera, es posible encontrar un mosaico conformado por diferentes usos del suelo como son: huertos, frutales y arrozales, a la vez que dunas, lagunas, playas, marismas y demás vegetación autóctona. Es por ello que presenta una gran diversidad y riqueza biológica. Por este motivo, en el año 1983, la Generalitat constituyó el Parque Natural del Delta del Ebro en 1983, y en 2013 fue declarado Reserva de la Biosfera y Zona de Especial Protección para las Aves (ZEPA). 
+
+El Delta del Ebro es un espacio extremadamente vulnerable a los impactos del cambio climático y a una deficiente gestión de la cuenca del río, tanto en cuanto a la aportación de caudales de agua como de sedimentos.
+
+Vulnerabilidades del Delta del Ebro al Cambio Climático:
+
+* Aumento de las Temperaturas Medias
+* Disminución de las Precipitaciones
+* Aumento de la temperatura media marina. Favoreciendo la aparición de fenómenos climáticos extremos asociados como por ejemplo, las Depresiones Aisladas a Niveles Altos (DANA).
+* Pérdida de Zonas Húmedas
+* Pérdida de Zonas de Cultivo
+* Sequías
+* Pérdida de Paisajes Culturales
+* Reducción de los Caudales del Río Ebro y por lo tanto, la pérdida de aportación de sedimentos.
+* Pérdida de Biodiversidad
+* Condiciones ambientales beneficiosas para la propagación de especies foráneas.
+
+## Cartografía
+
+El siguiente mapa web, están representadas una serie de capas geográficas que nos  permiten conocer la evolución reciente (2017-2022) del Delta del Ebro. 
+
+* Las capas catalogadas con la etiqueta S-2 RGB. Son imágenes tomadas por los satélites Sentinel-2, pertenecientes al Programa Copernicus de la Unión Europea, destinados a la obtención de imágenes para monitorización medioambiental. En este caso se presentan imágenes en color RGB de alta resolución.
+
+* Las capas catalogadas con la etiqueta S2-IRC. Son imágenes tomadas por los satélites Sentinel-2, pertenecientes al Programa Copernicus de la Unión Europea, destinados a la obtención de imágenes para monitorización medioambiental. En este caso se presentan imágenes a las que se les ha aplicado una transformación Tasseled Cap. Esta transformación es una de las más extendidas en el mundo de la teledetección para el análisis del vigor de la vegetación, poniendo en relación las bandas de infrarrojo cercano (NIR) y rojo (R).
+
+
+* Las capas catalogadas con la etiqueta S2-NDVI. Son imágenes tomadas por los satélites Sentinel-2, pertenecientes al Programa Copernicus de la Unión Europea, destinados a la obtención de imágenes para monitorización medioambiental. En este caso se presentan imágenes a las que se les ha aplicado un índice NDVI. Este índice, junto a Tasseled Cap es uno de los más extendidos en el mundo de la teledetección para el análisis del vigor de la vegetación, poniendo también en relación las bandas de infrarrojo cercano (NIR) y rojo (R).
+
+
+```{python, echo=FALSE, results=FALSE}
+import folium
+
+map_geo = folium.Map(location=[40.7025, 0.8088888888], zoom_start=13)
+
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2rgb_202205',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 2022',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2irc_202205',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 IRC22',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/servei/catalunya/ndvi/wms',
+                                  layers = 'ndvi_color_2022',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'NDVI 2022',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2rgb_201905',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 2017',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2irc_201905',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 IRC19',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/servei/catalunya/ndvi/wms',
+                                  layers = 'ndvi_color_2019',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'NDVI 2019',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2rgb_201705',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 2017',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/icgc_sentinel2/wms/service?',
+                                  layers = 'sen2irc_201705',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'S-2 IRC17',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+
+folium.raster_layers.WmsTileLayer(url = 'https://geoserveis.icgc.cat/servei/catalunya/ndvi/wms',
+                                  layers = 'ndvi_color_2017',
+                                  transparent = True, 
+                                  control = True,
+                                  fmt="image/png",
+                                  name = 'NDVI 2017',
+                                  overlay = True,
+                                  show = True,
+                                  ).add_to(map_geo)
+                                  
+
+folium.LayerControl().add_to(map_geo)
+
+map_geo
+
+```
+
+Los servicios Web Map aquí representados, son ofrecidos por el Instituto Cartográfico y Geológico de Cataluña.
+
+
+## Posibles soluciones y actividades en marcha.
+
+Entre las posibles soluciones a esta  problemática son:
+
+* Plantear un proyecto de Ordenación del Territorio, consensuado y asumido por todos los actores, que permita definir un nuevo modelo de gobernanza.
+
+* Implantar unos caudales ambientales en el río Ebro para mantener la estructura y el funcionamiento del río y del Delta, y la restauración del flujo de sedimentos.
+
+* Recuperar la función protectora de los sistemas costeros y trabajar conjuntamente con los procesos naturales para paliar la subida del nivel del mar y la regresión de la línea de costa.
+
+* Desarrollar medidas de ingeniería clásica. 
+
+* Control de la distribución de especies invasoras.
+
+## Cuestiones
+
+1. ¿Crees que se está haciendo lo suficiente para mitigar los efectos del Cambio Climático por parte de los Gobiernos? 
+
+2. ¿Qué otras actuaciones ves posibles en el Delta del Ebro para mitigar los efectos del Cambio Climático?
+
+3. ¿Crees que las tecnologías de la información geoespacial son una herramienta imprescindible para la lucha contra el Cambio Climático? 
+
+## Divulgación Social.
+
+<div>
+<p style = 'text-align:center;'>
+![](Img_twt.png)
+</p>
+</div>
+
 # Bibliografía
 
 1. Fernández García, F (2006): La Diversidad Climática de España. Explicación, comprensión y enseñanza. El espacio geográfico español y su diversidad. Ministerio de Educación y Ciencia, Instituto Superior de Formación del Profesorado, Madrid 2006, pp. 9-37 ISBN: 84-369-4266-3.
@@ -320,6 +573,16 @@ m
 2. Strahler, N. y Strahler, H. (1989): Geografía Física.Capítulo 9. Clasificación de los climas, pp. 147-190.
 
 3. Clasificador Climático Köppen (2023). Disponible en: https://fcalzado.es/climograma/index.html
+
+4. Keller, E. A., & Blodgett, R. H. (2007). Riesgos naturales: procesos de la Tierra como riesgos, desastres y catástrofes. Prentice Hall.
+
+5. IPCC, 2022: Summary for Policymakers
+
+6. Generalitat de Catalunya (2023). El delta del Ebro y el Cambio Climático. Disponible en: https://climadeltaebre.cat/es/
+
+
+
+
 
 
 
