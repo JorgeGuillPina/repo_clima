@@ -566,6 +566,19 @@ Entre las posibles soluciones a esta  problemática son:
 </p>
 </div>
 
+# Análisis Crítico de la Teoría de las Inteligencias Múltiples.
+Para poder realizar un análisis crítico sobre la Teoría de las Inteligencias Múltiples, es necesario en primer lugar definir qué se entiende por inteligencia. En la década de los años sesenta con la aparición y desarrollo de la psicología cognitiva comienza a cuestionarse las definiciones de inteligencia, presentes en la época (Monteros Molina, J.M., 2006). El debate, continua hoy en día, pues no existe consenso científico sobre como definir la inteligencia, debido a que no solo es un término confuso, sino que además está muy influenciada a nivel cultural. Es decir, su definición varía según como se valoren ciertas capacidades como propias de la inteligencia, en un determinado espacio y tiempo. Un ejemplo de ello es, que en un determinado momento de la historia se realzaba la capacidad adaptativa, aspecto propio de la teoría darwiniana y en otro, se resaltaba la capacidad solucionar problemas (Villamizar & Donoso, 2013).
+
+Actualmente es posible definirla como: la facultad o capacidad de la mente que permite aprender, entender, razonar, tomar decisiones y formarse una idea determinada de la realidad (Oxford, 2023). Otra definición interesante, es la que percibe la inteligencia como una actividad psíquica compleja que comprende la organización de nuestras habilidades para enfrentar situaciones problemáticas empleando nuevos recursos o procedimientos, resolviendo dichas situaciones de manera eficiente (Chura, 2016).
+
+Una vez examinado y definido el concepto de inteligencia, vamos a analizar de manera crítica la Teoría de las Inteligencias Múltiples. Esta teoría fue desarrollada por estadounidense Gardner en contraposición al paradigma de una inteligencia única, generando una revolución pedagógica. Gardner considera que no existe una única inteligencia, sino que cada persona posee al menos ocho inteligencias: inteligencia lingüística, lógico-matemática, cinestésico-corporal, musical, espacial, naturalista, interpersonal e intrapersonal (Carrillo y López, 2014). Estas inteligencias, son autónomas y se interrelacionan entre sí, permitiendo que se desarrollen y manifiesten de forma distinta e individual, por este motivo, hay inteligencias que tienen un mayor desarrollo que otras, dotando a todos los individuos de una inteligencia particular (Sánchez, 202).
+
+Tras una extensa revisión bibliográfica, es posible determinar, que la Teoría de las Inteligencias Múltiples no es adecuada. Aunque Gardner, base su teoría sobre los avances de la neurobiología de la época, no tiene fundamento científico y presenta poca evidencia empírica sobre los principios propuestos de la teoría. Además, con posterioridad a la publicación de su estudio, del que posteriormente se retractó, no realizó ningún estudio que comprobase o refutase sus ideas. La evidencia científica contradice la supuesta independencia entre inteligencias, comprobando la compartición de caminos neuronales por distintas habilidades cognitivas (Sánchez, 2022).
+
+Con posterioridad, el propio autor del estudio reconoció que se equivocó a la hora de llamarlas inteligencias y que si las hubiese llamado talentos no hubiese sido tan criticado. Pero no son inteligencias, puesto que la inteligencia es una habilidad cognitiva muy general que interviene en muchas de esas habilidades (Pellicer, 2021).  
+
+Aunque la idea inicial de Gardner fue errónea y no podía sustentarse empíricamente, es cierto que favorecido que muchas personas se den cuenta de que quizás deben tener una visión más amplia a la hora de valorar las habilidades a las que se da importancia en la escuela (Pellicer, 2021). Y no solo en la escuela, en la actualidad existe una tendencia cada vez mayor a valorar las habilidades blandas o “soft skills” en el mercado laboral. Por lo tanto y a modo de conclusión, es posible afirmar que, aunque Gardner generó una teoría errónea, está ha terminado contribuyendo a una mejor comprensión de la mente humana y a la valoración de las habilidades de cada individuo.
+
 # Bibliografía
 
 1. Fernández García, F (2006): La Diversidad Climática de España. Explicación, comprensión y enseñanza. El espacio geográfico español y su diversidad. Ministerio de Educación y Ciencia, Instituto Superior de Formación del Profesorado, Madrid 2006, pp. 9-37 ISBN: 84-369-4266-3.
@@ -579,6 +592,22 @@ Entre las posibles soluciones a esta  problemática son:
 5. IPCC, 2022: Summary for Policymakers
 
 6. Generalitat de Catalunya (2023). El delta del Ebro y el Cambio Climático. Disponible en: https://climadeltaebre.cat/es/
+
+7. Monteros Molina, J. M. (2006). Génesis de la teoría de las inteligencias múltiples. Revista Iberoamericana de Educación (ISSN: 1681-5653). Disponible en: https://rieoei.org/RIE/article/view/2596/3582 
+
+8. Villamizar, G., & Donoso, R. (2013). Definiciones y teorías sobre inteligencia. Revisión histórica. Psicogente, 16(30). https://doi.org/10.17081/psico.16.30.1927 
+
+9. Bases epistemológicas que sustentan la teoría de las inteligencias múltiples de Howard Gardner en la pedagogía. (2019). Revista Innova Educación, 1(4), 589-598. https://revistainnovaeducacion.com/index.php/rie/article/view/62
+
+10. Chura, E. (2016). Psicología Humana (1ra Ed.). Arequipa, Perú: Chaparro Editores.
+
+11. Sánchez, R. M. (202). Las inteligencias múltiples no existen, son un mito. Mente y Ciencia. https://www.menteyciencia.com/las-inteligencias-multiples-no-existen-son-un mito/ 
+
+12. Carrillo, M. E., & López, A. (2014). The multiple intelligence theory for the teaching of languages. Revista de Educación: Contextos Educativos, 17(1), 79-89. https://doi.org/http://dx.doi.org/10.18172/con.2594 
+
+13. Pellicer, C. (2021). Entrevista a Héctor Ruíz Martín. Director De International Science Teaching Foundation. Cuadernos de Pedagogía, Nº 521. Disponible en: Cuadernos de Pedagogía - Documento (cuadernosdepedagogia.com)
+
+14. Oxford. (2023). Diccionario Oxford.
 
 
 
