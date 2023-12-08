@@ -579,6 +579,91 @@ Con posterioridad, el propio autor del estudio reconoció que se equivocó a la 
 
 Aunque la idea inicial de Gardner fue errónea y no podía sustentarse empíricamente, es cierto que favorecido que muchas personas se den cuenta de que quizás deben tener una visión más amplia a la hora de valorar las habilidades a las que se da importancia en la escuela (Pellicer, 2021). Y no solo en la escuela, en la actualidad existe una tendencia cada vez mayor a valorar las habilidades blandas o “soft skills” en el mercado laboral. Por lo tanto y a modo de conclusión, es posible afirmar que, aunque Gardner generó una teoría errónea, está ha terminado contribuyendo a una mejor comprensión de la mente humana y a la valoración de las habilidades de cada individuo.
 
+# Gamificación y Aprendizaje Basado en Juegos.
+
+La gamificación es una técnica de aprendizaje que traslada todo el potencial de los juegos al ámbito educativo para mejorar los resultados de aprendizaje. En cambio, el Aprendizaje Basado en Juegos, consiste en la utilización de los juegos como herramientas de apoyo al aprendizaje. En esta entrada del blog, se va a realizar una propuesta descriptiva de aprendizaje basado en juegos/gamificación sobre contenidos curriculares de geografía.
+
+La geografía es una ciencia de síntesis, pues se encuentra a caballo entre las ciencias naturales y las ciencias sociales y que aglutina conocimientos de diversas disciplinas. El objeto de estudio de esta disciplina es el territorio y las interrelaciones entre elementos naturales y humanos que sobre este se producen, al igual que su causalidad y las consecuencias que de estos hechos emanan. 
+
+La geografía es una disciplina eminentemente práctica, que favorece su enseñanza a través de instrumentos como imágenes, datos estadísticos y cartografía, y recursos digitales, mediante el uso de las Tecnologías de la Información Geográfica.
+
+Dentro del temario de la asignatura de Geografía, que se imparte en 2º de Bachillerato en la especialidad en CCSS. Dentro del Decreto 64/2022 en el que se presenta la ordenación y el currículo del Bachillerato, se encuentran los contenidos que deben impartirse a lo largo de la asignatura. En este caso concreto, nos centraremos en los contenidos referentes a *La sostenibilidad del medio físico en España*. Estos contenidos se reparten de la siguiente manera:
+
+* Factores geográficos y elementos del clima. 
+* Tipos de tiempo atmosférico: situaciones sinópticas que afectan al territorio español.
+* Estudio de los dominios climáticos de España y su representación e interpretación gráfica: climogramas. 
+* Análisis comparativos de distribución y representación de climas. 
+* Problemas medioambientales: cambios en los patrones termopluviométricos; causas, consecuencias y medidas de mitigación y adaptación. 
+* Estrategias de interpretación del tiempo y alertas meteorológicas; webs y aplicaciones móviles.
+
+Estos contenidos están relacionados con las siguientes competencias específicas:
+
+* Analizar la diversidad natural de España y su singularidad geográfica dentro de Europa, a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad, para reflexionar sobre la percepción personal del espacio.
+
+* Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas propios o de ciencias afines, localizando fenómenos naturales y humanos, y argumentando con rigor sus límites o categorías, para resolver eficientemente el problema de la escala en cualquier análisis o propuesta de actuación.
+
+Para el desarrollo de esta propuesta, es necesaria una sala de ordenadores. Se ha realizado, por parte del equipo docente del centro un juego en línea basado en preguntas y respuestas, similar a Oriente Próximo en juego (historiajuego.blogspot.com). La propuesta realizada, se corresponde a una sesión en el aula.
+
+## Reglas del Juego
+
+En este juego, adoptas un rol de investigador del clima y tu objetivo es ir superando misiones para ascender al nivel más alto.
+
+Cada nivel se compone de una serie de pruebas (preguntas interactivas) que se debes superar. El número de pruebas, dependerá de la temática, pero suele rondar entre 20 y 30. Por cada prueba superada, se da una determinada puntuación.
+
+Las pruebas fáciles sumarán 2 puntos, las pruebas intermedias 4, las pruebas difíciles 6. No es posible dejar pruebas sin hacer, las pruebas no superadas restan 1 punto sobre el total. Solo es posible pasar a la siguiente misión si se supera el número de puntos mínimos. Podrá rehacer el nivel, tantas veces como sea necesario, hasta que lo supere. Por lo tanto, el objetivo es superar la puntuación mínima.
+
+Al final de cada nivel, el jugador podrá recibir o no, una recompensa: defensa o ataque.
+
+Los 3 primeros alumnos/as que superen el nivel serán recompensados. La recompensa será la entrega de puntuación extra más comodín (capacidad para saltarse una pregunta). 
+
+Se realizará una clasificación general de clase. Esta clasificación se publicará una vez hayan terminado todos los jugadores. Una vez publicada los jugadores, que han obtenido unas habilidades de defensa o ataque podrán reducir las puntuaciones o defender las puntuaciones de otros jugadores.
+
+## Breve Muestra
+
+En este caso concreto, se va a plantear a los alumnos la superación del nivel que comprende el temario de climatología. 
+
+Un ejemplo de pregunta sencilla podría ser:
+
+1. ¿Cuál es su funcionalidad?
+
+<div>
+<p style = 'text-align:center;'>
+<img src="https://services.meteored.com/img/article/origen-y-evolucion-del-anemometro-1647724650953_1280.jpg" width="600px">
+</p>
+</div>
+
+* Medir la Velocidad del viento
+
+* Conocer la dirección del viento
+
+* Servir de soporte para aves
+ 
+Un ejemplo de pregunta intermedia podría ser: 
+
+2. ¿Cuál de los siguientes territorios tiene un microclima?
+
+* Tenerife
+
+*  Santander
+
+*  El Delta del Ebro
+
+Un ejemplo de pregunta difícil podría ser:
+
+3. Según la clasificación climática de Köppen. El siguiente climograma ¿a que región climática pertenece?
+
+<div>
+<p style = 'text-align:center;'>
+<img src="2020_Geta.png" width="600px">
+</p>
+</div>
+
+* Cálida
+
+* Templada
+
+* Fría
+
 # Bibliografía
 
 1. Fernández García, F (2006): La Diversidad Climática de España. Explicación, comprensión y enseñanza. El espacio geográfico español y su diversidad. Ministerio de Educación y Ciencia, Instituto Superior de Formación del Profesorado, Madrid 2006, pp. 9-37 ISBN: 84-369-4266-3.
@@ -609,7 +694,9 @@ Aunque la idea inicial de Gardner fue errónea y no podía sustentarse empírica
 
 14. Oxford. (2023). Diccionario Oxford.
 
+15. Decreto 65/2022 de 2022 [Consejo de Gobierno de la Comunidad de Madrid]. Por el que se establecen para la Comunidad de Madrid la ordenación y el currículo de la Educación Secundaria Obligatoria. 27 de julio de 2022.
 
+16.  Ayén, F. (2023). Oriente Próximo en Juego. Disponible en: https://historiajuego.blogspot.com/
 
 
 
